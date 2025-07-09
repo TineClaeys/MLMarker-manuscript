@@ -1,0 +1,77 @@
+Acc. Nr.	Protein name	Gene name	log2 fold change (t-test difference)	p value	t-test significant
+Q14232	Translation initiation factor eIF-2B subunit alpha	EIF2B1	1.04	2.48E − 03	
+Q14152	Eukaryotic translation initiation factor 3 subunit A	EIF3A	1.13	5.71E − 03	
+P55884	Eukaryotic translation initiation factor 3 subunit B	EIF3B	1.57	3.62E − 03	
+O00303	Eukaryotic translation initiation factor 3 subunit F	EIF3F	1.23	9.41E − 03	
+O75821	Eukaryotic translation initiation factor 3 subunit G	EIF3G	1.59	4.81E − 02	
+Q13347	Eukaryotic translation initiation factor 3 subunit I	EIF3I	2.88	4.29E − 05	*
+Q9UBQ5	Eukaryotic translation initiation factor 3 subunit K	EIF3 K	1.85	3.50E − 05	
+Q9Y262	Eukaryotic translation initiation factor 3 subunit L	EIF3L	1.57	7.30E − 03	
+P23588	Eukaryotic translation initiation factor 4B	EIF4B	1.69	1.44E − 03	
+Q15056	Eukaryotic translation initiation factor 4H	EIF4H	1.68	3.92E − 04	
+O60841	Eukaryotic translation initiation factor 5B	EIF5B	1.26	2.53E − 02	
+Q8N111	Cell cycle exit and neuronal differentiation protein 1	CEND1	2.86	1.98E − 03	
+P51674	Neuronal membrane glycoprotein M6-a	GPM6A	5.3	5.24E − 05	*
+P62166	Neuronal calcium sensor 1	NCS1	3.55	6.65E − 05	*
+Q7Z3B1	Neuronal growth regulator 1	NEGR1	3.71	1.93E − 03	
+Q15818	Neuronal pentraxin-1	NPTX1	3.07	4.79E − 03	
+Q92823	Neuronal cell adhesion molecule	NRCAM	2.44	3.48E − 03	
+Q9UH03	Neuronal-specific septin-3	sep/03	3.4	3.68E − 04	
+P17600	Synapsin-1	SYN1	4.68	2.47E − 04	*
+Q92777	Synapsin-2	SYN2	5.49	3.17E − 04	*
+O14994	Synapsin-3	SYN3	2.46	5.70E − 03	
+P30531	Sodium- and chloride-dependent GABA transporter 1	SLC6A1	3.44	8.85E − 06	*
+P43003	Excitatory amino acid transporter 1	SLC1A3	3.17	2.51E − 03	
+P43004	Excitatory amino acid transporter 2	SLC1A2	4.98	5.16E − 03	
+P43007	Neutral amino acid transporter A	SLC1A4	1.81	4.10E − 02	
+P48066	Sodium- and chloride-dependent GABA transporter 3	SLC6A11	2.12	4.95E − 04	
+Q15043	Zinc transporter ZIP14	SLC39A14	1.28	3.30E − 03	
+Q6PML9	Zinc transporter 9	SLC30A9	1.57	1.36E − 02	
+Q8N4V1	Membrane magnesium transporter 1	MMGT1	1.19	3.22E − 02	
+Q8TBB6	Probable cationic amino acid transporter	SLC7A14	1.78	6.86E − 03	
+Q96QE2	Proton myo-inositol cotransporter	SLC2A13	2.68	1.94E − 06	*
+Q99726	Zinc transporter 3	SLC30A3	2.03	2.95E − 02	
+Q9H1V8	Sodium-dependent neutral amino acid transporter SLC6A17	SLC6A17	2.51	1.39E − 02	
+Q9NS82	Asc-type amino acid transporter 1	SLC7A10	1.44	6.39E − 03	
+P32418	Sodium/calcium exchanger 1	SLC8A1	1.66	4.06E − 02	
+Q8TCU6	Phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 1 protein	PREX1	1.03	1.03E − 03	
+Q92581	Sodium/hydrogen exchanger 6	SLC9A6	1.76	9.73E − 03	
+Q9UPR5	Sodium/calcium exchanger 2	SLC8A2	4.39	1.18E − 03	
+Q15904	V-type proton ATPase subunit S1	ATP6AP1	1.41	3.12E − 02	
+Q93050	V-type proton ATPase 116 kDa subunit a isoform 1	ATP6V0A1	2.57	2.75E − 04	
+P27449	V-type proton ATPase 16 kDa proteolipid subunit	ATP6V0C	2.36	5.37E − 03	
+P61421	V-type proton ATPase subunit d 1	ATP6V0D1	3.96	8.92E − 07	*
+P38606	V-type proton ATPase catalytic subunit A	ATP6V1A	1.82	6.37E − 05	
+P21281	V-type proton ATPase subunit B, brain isoform	ATP6V1B2	1.62	2.37E − 04	
+P21283	V-type proton ATPase subunit C 1	ATP6V1C1	1.51	5.27E − 05	
+Q9Y5K8	V-type proton ATPase subunit D	ATP6V1D	2.19	5.15E − 04	
+P36543	V-type proton ATPase subunit E 1	ATP6V1E1	1.27	6.60E − 04	
+Q16864	V-type proton ATPase subunit F	ATP6V1F	3.12	5.47E − 07	*
+O75348	V-type proton ATPase subunit G 1	ATP6V1G1	2.39	5.16E − 04	
+O95670	V-type proton ATPase subunit G 2	ATP6V1G2	1.4	4.11E − 04	
+Q9UI12	V-type proton ATPase subunit H	ATP6V1H	2.75	4.83E − 04	
+P28482	Mitogen-activated protein kinase 1	MAPK1	1.78	6.70E − 04	
+P53779	Mitogen-activated protein kinase 10	MAPK10	2.27	1.27E − 03	
+P27361	Mitogen-activated protein kinase 3	MAPK3	1.79	1.39E − 03	
+Q9UPT6	C-Jun-amino-terminal kinase-interacting protein 3	MAPK8IP3	2.21	1.83E − 03	
+O00533	Neural cell adhesion molecule L1-like protein	CHL1	1.59	3.85E − 02	
+O15394	Neural cell adhesion molecule 2	NCAM2	2.56	1.84E − 02	
+P13591	Neural cell adhesion molecule 1	NCAM1	3.72	1.12E − 04	*
+P32004	Neural cell adhesion molecule L1	L1CAM	4.27	1.91E − 06	*
+Q14982	Opioid-binding protein/cell adhesion molecule	OPCML	4.53	7.99E − 04	*
+Q14CZ8	Hepatocyte cell adhesion molecule	HEPACAM	2.49	1.23E − 02	
+Q8N3J6	Cell adhesion molecule 2	CADM2	4.32	1.24E − 03	
+Q8NFZ8	Cell adhesion molecule 4	CADM4	1.74	2.53E − 02	
+Q92823	Neuronal cell adhesion molecule	NRCAM	2.44	3.48E − 03	
+P62158	Calmodulin	CALM1	1.36	9.22E − 06	
+Q14012	Calcium/calmodulin-dependent protein kinase type 1	CAMK1	2.17	4.56E − 04	
+Q9UQM7	Calcium/calmodulin-dependent protein kinase type II subunit alpha	CAMK2A	3	5.85E − 04	
+Q13554	Calcium/calmodulin-dependent protein kinase type II subunit beta	CAMK2B	3.98	2.08E − 03	
+Q13555	Calcium/calmodulin-dependent protein kinase type II subunit gamma	CAMK2G	2.77	5.24E − 03	
+Q16566	Calcium/calmodulin-dependent protein kinase type IV	CAMK4	1.98	1.25E − 02	
+Q8N5S9	Calcium/calmodulin-dependent protein kinase kinase 1	CAMKK1	2.13	8.09E − 03	
+Q96RR4	Calcium/calmodulin-dependent protein kinase kinase 2	CAMKK2	2.03	8.67E − 03	
+Q9P1Y5	Calmodulin-regulated spectrin-associated protein 3	CAMSAP3	2.35	8.13E − 03	
+P54750	Calcium/calmodulin-dependent 3,5-cyclic nucleotide phosphodiesterase 1A	PDE1A	1.97	5.00E − 03	
+Q01064	Calcium/calmodulin-dependent 3,5-cyclic nucleotide phosphodiesterase 1B	PDE1B	2.54	1.25E − 02	
+P19022	Cadherin-2	CDH2	2.53	1.02E − 03	

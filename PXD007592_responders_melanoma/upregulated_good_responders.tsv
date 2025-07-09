@@ -1,0 +1,35 @@
+Acc. Nr.	Protein name	Gene name	log2 fold change (t-test difference)	p value	t-test significant
+P05164	Myeloperoxidase	MPO	4.53	1.69E − 05	*
+P01909	HLA class II histocompatibility antigen, DQ alpha 1 chain	HLA-DQA1	1.43	1.01E − 03	
+P04233	HLA class II histocompatibility antigen gamma chain	CD74	1.74	7.47E − 03	
+P20039	HLA class II histocompatibility antigen, DRB1-11 beta chain	HLA-DRB1	2.99	2.46E − 03	
+Q95365	HLA class I histocompatibility antigen, B-38 alpha chain	HLA-B	1.84	3.64E − 03	
+Q5Y7A7	HLA class II histocompatibility antigen, DRB1-13 beta chain	HLA-DRB1	1.38	1.70E − 03	
+P01594	Ig kappa chain V-I region AU		1.07	7.46E − 03	
+P01609	Ig kappa chain V-I region Scw		1.58	2.02E − 03	
+P01613	Ig kappa chain V-I region Ni		1.86	1.68E − 02	
+P01617	Ig kappa chain V-II region TEW		1.61	4.60E − 03	
+P01623	Ig kappa chain V-III region WOL		1.89	1.87E − 03	
+P01777	Ig heavy chain V-III region TEI		1.78	1.97E − 03	
+P01767	Ig heavy chain V-III region BUT		1.46	3.39E − 02	
+P01779	Ig heavy chain V-III region TUR		2.24	9.82E − 04	
+P01834	Ig kappa chain C region	IGKC	1.56	4.17E − 03	
+P01857	Ig gamma-1 chain C region	IGHG1	1.4	9.49E − 03	
+P01860	Ig gamma-3 chain C region	IGHG3	1.42	1.01E − 02	
+P01871	Ig mu chain C region	IGHM	2.24	7.25E − 03	
+P01876	Ig alpha-1 chain C region	IGHA1	1.12	5.26E − 02	
+P01880	Ig delta chain C region	IGHD	1.36	4.04E − 02	
+O14791	Apolipoprotein L1	APOL1	1.82	1.43E − 03	
+P02647	Apolipoprotein A-I	APOA1	1.94	2.86E − 04	
+P04114	Apolipoprotein B-100	APOB	3.55	1.17E − 03	
+P06727	Apolipoprotein A-IV	APOA4	5.06	2.61E − 06	*
+P16284	Platelet endothelial cell adhesion molecule	PECAM1	1.48	5.04E − 02	
+P31997	Carcinoembryonic antigen-related cell adhesion molecule 8	CEACAM8	1.86	3.08E − 03	
+P40199	Carcinoembryonic antigen-related cell adhesion molecule 6	CEACAM6	1.16	3.99E − 02	
+P02452	Collagen alpha-1(I) chain	COL1A1	3.67	2.18E − 02	
+P02751	Fibronectin	FN1	2.61	4.26E − 03	
+P08123	Collagen alpha-2(I) chain	COL1A2	3.24	1.25E − 02	
+P25067	Collagen alpha-2(VIII) chain	COL8A2	1.29	9.84E − 03	
+P39059	Collagen alpha-1(XV) chain	COL15A1	1.48	4.46E − 02	
+Q05707	Collagen alpha-1(XIV) chain	COL14A1	2.53	5.55E − 02	
+Q96P44	Collagen alpha-1(XXI) chain	COL21A1	1.78	3.42E − 02	
