@@ -1,0 +1,47 @@
+Unimod #	Unimod name	Description	Monoisotopic mass	Specificity
+6	Carboxymethyl	Carboxymethylation	 58,005479	K
+35	Oxidation	Hydroxylation	15,994915	D, K, N, P, F, Y, R, M, C, H, W, G, E, I, L, Q, S, T, V
+53	HNE	4-Hydroxynonenal	156,115030	C, H, K
+205	Delta:H(6)C(6)O(1)	Acrolein addition +94	94,041865	K
+206	Delta:H(4)C(3)O(1)	Acrolein addition +56	56,026215	H, K, R
+275	Nitrosyl	Nitrosylation	28,990160	C
+288	Trp->Oxolactone	Tryptophan oxidation to oxolactone	13,979265	W
+318	Delta:H(2)C(5)	MDA adduct +62	62,015650	K
+335	HNE+Delta:H(2)	Reduced 4-Hydroxynonenal	158,130680	C, H, K
+340	Bromo	Bromination	77,910511	Y
+344	Arg->GluSA	Arginine oxidation to glutamic semialdehyde	-43,053433	R
+345	Trioxidation	Cysteine oxidation to cysteic acid	47,984744	C, W, F
+350	Trp->Hydroxykynurenin	Tryptophan oxidation to hydroxykynurenine	19,989829	W
+351	Trp->Kynurenin	Tryptophan oxidation to kynurenin	3,994915	W
+352	Lys->Allysine	Lysine oxidation to aminoadipic semialdehyde	-1,031634	K
+354	Nitro	Oxidation to nitro	44,985078	W, Y, F
+359	Pro->pyro-Glu	Proline oxidation to pyroglutamic acid	13,979265	P
+360	Pro->Pyrrollidinone	Proline oxidation to pyrrolidinone	-30,010565	P
+368	DehydroalaC	Dehydroalanine (from Cysteine)	-33,987721	C
+378	Carboxyethyl	Carboxyethyl	72,021129	K
+392	Quinone	Quinone	29,974179	W
+401	Didehydro	2-amino-3-ketobutyric acid	-2,015650	T
+421	Sulfide	Persulfide	31,972071	C
+425	Dioxidation	Dihydroxy	31,989829	P, K, M, F, W, Y, C
+534	Dibromo	Dibromo	155,821022	Y
+720	HNE-Delta:H(2)O	Dehydrated 4-hydroxynonenal	138,104465	C, H, K
+721	4-ONE	4-Oxononenal (ONE)	154,099380	C, H, K
+743	4-ONE+Delta:H(-2)O(-1)	Dehydrated 4-Oxononenal Michael adduct	136,088815	C, H, K
+860	G-H1	Glyoxal-derived hydroimidazolone	39,994915	R
+936	Chlorination	Chlorination	33,961028	Y
+937	Dichlorination	Dichlorination	67,922055	Y
+949	3-deoxyglucosone	Condensation product of 3-deoxyglucosone	144,042259	R
+1384	Homocysteic_acid	Methionine oxidation to homocysteic acid	33,969094	M
+1914	Met->AspSA	Methionine oxidation to aspartic semialdehyde	-32,008456	M
+1915	Decarboxylation	Decarboxylation	-30,010565	D, E
+1916	Aspartylurea	Aspartylurea	-10,031969	H
+1917	Formylasparagine	Formylasparagine	4,978930	H
+1918	Carbonyl	Aldehyde and ketone modifications	13,979265	A, E, I, L, Q, R, S, V
+1922	Pro->HAVA	Proline oxidation to 5-hydroxy-2-aminovaleric acid	18,010565	P
+1923	Delta:H(-4)O(2)	Tryptophan oxidation to beta-unsaturated-2,4-bis-tryptophandione	27,958529	W
+1924	Delta:H(-4)O(3)	Tryptophan oxidation to hydroxy-bis-tryptophandione	43,953444	W
+1925	Delta:O(4)	Tryptophan oxidation to dihydroxy-N-formylkynurenine	63,979659	W
+1926	Delta:H(4)C(3)O(2)	Methylglyoxal-derived carboxyethyllysine	72,0211129	K
+1927	Delta:H(4)C(5)O(1)	Methylglyoxal-derived argpyrimidine	80,026215	R
+1928	Delta:H(10)C(8)O(1)	Crotonaldehyde-derived dimethyl-FDP-lysine	122,073165	K
+1929	Delta:H(6)C(7)O(4)	Methylglyoxal-derived tetrahydropyrimidine	154,026609	R

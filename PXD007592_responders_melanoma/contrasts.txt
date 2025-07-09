@@ -1,0 +1,7 @@
+Comparison	Contrast Formula
+poor_brain vs poor_not_brain	sample_typepoor_brain - sample_typepoor_not_brain = 0
+poor_brain vs good_brain	sample_typepoor_brain = 0
+poor_brain vs good_not_brain	sample_typepoor_brain - sample_typegood_not_brain = 0
+poor_not_brain vs good_brain	sample_typepoor_not_brain = 0
+poor_not_brain vs good_not_brain	sample_typepoor_not_brain - sample_typegood_not_brain = 0
+good_brain vs good_not_brain	sample_typegood_not_brain = 0
